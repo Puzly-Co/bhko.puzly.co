@@ -1,8 +1,8 @@
 {
     "android": {
-        "build": 4,
-        "minSupportedBuild": 4,
-        "version": "23.2.0",
+        "build": 5,
+        "minSupportedBuild": 5,
+        "version": "23.3.0",
         "url": "https://play.google.com/store/apps/details?id=co.puzly.bhko",
         "other_languages": [{
             "name": "Five-Letter Word Game",
