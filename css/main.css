@@ -39,7 +39,7 @@ body.page-home {
 
 .download-section {
     padding: 110px 0;
-    background: url("../images/section-bg.png") no-repeat center;
+background: url("../images/section-bg.png") no-repeat center;
     background-size: cover;
 }
 
@@ -79,6 +79,27 @@ body.page-home {
 
 .section-text span {
     font-weight: bolder;
+}
+
+.app-badge-container {
+    position: relative;
+    display: inline-block;
+}
+
+.app-badge-container span {
+    position: absolute;
+    right: 25px;
+    top: 43px;
+    transform: rotate(45deg);
+    background-color: orange;
+    padding: 0 10px;
+    color: whitesmoke;
+    border: 2px solid whitesmoke;
+    font-size: small;
+}
+
+.app-badge-container img {
+    border: 1px solid whitesmoke;
 }
 
 @media (max-width: 1535px) {
