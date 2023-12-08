@@ -1,6 +1,6 @@
 ---
 title: Beş Harfli Kelime Oyunu - Gizlilik Politikası
-layout: default
+layout: default_tr
 body_class: page-legal
 show_language_options: true
 ---
