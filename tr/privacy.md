@@ -81,7 +81,7 @@ Daha kolay erişim için aşağıda Gizlilik Politikalarına köprü oluşturduk
 <p>Beş Harfli Kelime Oyunu'nun veri toplayabilecek üçüncü taraf ortakları şunlardır:</p>
 
 <ul>
-     <li>Google AdMob'ları</li>
+     <li>Google AdMobs</li>
 </ul>
 
 <h3>Veri silme talepleri</h3>
@@ -90,9 +90,9 @@ Daha kolay erişim için aşağıda Gizlilik Politikalarına köprü oluşturduk
      bağımsız veri denetleyicileri, her bir iş ortağının iletişim bilgilerini ve gizlilik politikalarının ilgili bölümünün bağlantısını aşağıda bulacaksınız:</p>
 
 <ul>
-     <li>Google AdMob'ları:
+     <li>Google AdMobs:
          <ul>
-             <li>form: <a href="https://myaccount.google.com/delete-services-or-account">https://gameanalytics.com/privacy/#6-change-or-deleting-your- bilgi</a></li>
+             <li>form: <a href="https://myaccount.google.com/delete-services-or-account">https://myaccount.google.com/delete-services-or-account</a></li>
          </ul>
      </li>
 </ul>
