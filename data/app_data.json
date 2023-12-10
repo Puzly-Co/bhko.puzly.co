@@ -1,8 +1,8 @@
 {
     "android": {
-        "build": 6,
-        "minSupportedBuild": 5,
-        "version": "23.4.0",
+        "build": 8,
+        "minSupportedBuild": 7,
+        "version": "23.5.1",
         "url": "https://play.google.com/store/apps/details?id=co.puzly.bhko",
         "other_languages": [{
             "name": "Five-Letter Word Game",
@@ -26,7 +26,7 @@
     },
     "game": {
         "start": { "month": 12, "year": 2022 },
-        "latest": { "month": 12, "year": 2023 },
+        "latest": { "month": 12, "year": 2024 },
         "dv": 1
     },
     "api": {
