@@ -5,11 +5,18 @@
 		"version": "24.4",
 		"url": "https://play.google.com/store/apps/details?id=co.puzly.bhko",
 		"other_languages": [{
-			"name": "Five-Letter Word Game",
-			"language": "English",
-			"url": "https://play.google.com/store/apps/details?id=co.puzly.flwg",
-			"status": "beta"
-		}],
+				"name": "Five-Letter Word Game",
+				"language": "English",
+				"url": "https://play.google.com/store/apps/details?id=co.puzly.flwg",
+				"status": "beta"
+			},
+			{
+				"name": "Беш Тамгалуу Сөз Оюну",
+				"language": "Кыргызча",
+				"url": "https://play.google.com/store/apps/details?id=co.puzly.btso",
+				"status": "beta"
+			}
+		],
 		"other_games": [{
 				"name": "Altı Harfli Kelime Oyunu",
 				"language": "Türkçe",
@@ -22,7 +29,19 @@
 				"url": "https://play.google.com/store/apps/details?id=co.puzly.yhko",
 				"status": "beta"
 			}
-		]
+		],
+		"custom_ads": {
+			"test-ad-id-1": {
+				"ad_id": "test-ad-id-1",
+				"ad_type": 0,
+				"trigger_type": 2,
+				"image_url": "https://raw.githubusercontent.com/Puzly-Co/bhko.puzly.co/gh-pages/images/app-store-badge-tr.png",
+				"target_url": "https://www.puzly.co",
+				"display_times": 2,
+				"total_steps": 1,
+				"min_puzzles_completed": 0
+			}
+		}
 	},
 	"game": {
 		"start": { "month": 12, "year": 2022 },
