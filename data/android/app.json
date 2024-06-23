@@ -1,6 +1,6 @@
 {
-	"latest_build": 14,
-	"min_supported_build": 7,
+	"latest_build": 16,
+	"min_supported_build": 15,
 	"store_url": "https://play.google.com/store/apps/details?id=co.puzly.bhko",
 	"other_languages": [{
 			"name": "Five-Letter Word Game",
@@ -12,7 +12,7 @@
 			"name": "Беш Тамгалуу Сөз Оюну",
 			"language": "Кыргызча",
 			"url": "https://play.google.com/store/apps/details?id=co.puzly.btso",
-			"status": "beta"
+			"status": "released"
 		}
 	],
 	"other_games": [{
@@ -22,9 +22,9 @@
 			"status": "released"
 		},
 		{
-			"name": "Yedi Harfli Kelime Oyunu",
+			"name": "Dört Harfli Kelime Oyunu",
 			"language": "Türkçe",
-			"url": "https://play.google.com/store/apps/details?id=co.puzly.yhko",
+			"url": "https://play.google.com/store/apps/details?id=co.puzly.dhko",
 			"status": "beta"
 		}
 	],
