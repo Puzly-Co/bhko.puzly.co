@@ -1,13 +1,13 @@
 {
-	"latest_build": 17,
+	"latest_build": 18,
 	"min_supported_build": 15,
 	"store_url": "https://play.google.com/store/apps/details?id=co.puzly.bhko",
 	"other_languages": [
 		{
-			"name": "Five-Letter Word Game",
+			"name": "Five-Letter Word Puzzle",
 			"language": "English",
-			"url": "https://play.google.com/store/apps/details?id=co.puzly.flwg",
-			"status": "beta"
+			"url": "https://play.google.com/store/apps/details?id=co.puzly.flwp",
+			"status": "released"
 		},
 		{
 			"name": "Беш Тамгалуу Сөз Оюну",
@@ -18,15 +18,15 @@
 	],
 	"other_games": [
 		{
-			"name": "Altı Harfli Kelime Oyunu",
-			"language": "Türkçe",
-			"url": "https://play.google.com/store/apps/details?id=co.puzly.ahko",
-			"status": "released"
-		},
-		{
 			"name": "Dört Harfli Kelime Oyunu",
 			"language": "Türkçe",
 			"url": "https://play.google.com/store/apps/details?id=co.puzly.dhko",
+			"status": "released"
+		},
+		{
+			"name": "Altı Harfli Kelime Oyunu",
+			"language": "Türkçe",
+			"url": "https://play.google.com/store/apps/details?id=co.puzly.ahko",
 			"status": "released"
 		}
 	],
